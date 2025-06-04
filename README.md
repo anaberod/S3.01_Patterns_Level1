@@ -41,9 +41,6 @@ However, you can:
 - Package it as a .jar file
 - Run it on any machine with Java 17 installed
 
-Example:
-jar cfe UndoManagerApp.jar Main *.class
-java -jar UndoManagerApp.jar
 
 🤝 Contributing
 Contributions are welcome! To contribute:
