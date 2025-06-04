@@ -30,8 +30,11 @@ Build the project.
 ▶️ Execution
 
 Locate the Main class inside the project.
+
 Run the program from your IDE or terminal: java Main
+
 Interact with the console menu:
+
 Option 1: Add a new order
 Option 2: Undo the last order
 Option 3: Show order history
