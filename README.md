@@ -37,7 +37,9 @@ Option 2: Undo the last order
 Option 3: Show order history
 Option 4: Exit the program
 
-🌐 Deployment This project runs locally in console mode and is not intended for deployment in a production server environment. However, you can:
+🌐 Deployment 
+
+This project runs locally in console mode and is not intended for deployment in a production server environment. However, you can:
 
 Package it as a .jar file
 Run it on any machine with Java 17 installed
